@@ -2,3 +2,8 @@
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
 	branch = 12.0
+
+[submodule "ingadhoc/account-financial-tools"]
+	path = ingadhoc/account-financial-tools
+	url = git@github.com:ingadhoc/account-financial-tools.git
+	branch = 12.0
