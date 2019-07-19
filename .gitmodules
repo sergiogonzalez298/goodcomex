@@ -37,3 +37,8 @@
 	path = ctmil/account-payment
 	url = git@github.com:ctmil/account-payment.git
 	branch = 12.0
+
+[submodule "ctmil/account-financial-tools"]
+	path = ctmil/account-financial-tools
+	url = git@github.com:ctmil/account-financial-tools.git
+	branch = 12.0
