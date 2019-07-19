@@ -32,3 +32,8 @@
 	path = ctmil/miscellaneous
 	url = git@github.com:ctmil/miscellaneous.git
 	branch = 12.0
+
+[submodule "ctmil/account-payment"]
+	path = ctmil/account-payment
+	url = git@github.com:ctmil/account-payment.git
+	branch = 12.0
