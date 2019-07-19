@@ -27,3 +27,8 @@
 	path = ctmil/odoo-argentina
 	url = git@github.com:ctmil/odoo-argentina.git
 	branch = 12.0
+
+[submodule "ctmil/miscellaneous"]
+	path = ctmil/miscellaneous
+	url = git@github.com:ctmil/miscellaneous.git
+	branch = 12.0
